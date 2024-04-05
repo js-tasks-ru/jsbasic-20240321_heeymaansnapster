@@ -5,4 +5,3 @@ function sumSalary(salaries) {
   }
   return sumS;
 }
-console.log(sumSalary(salaries));
